@@ -1,0 +1,89 @@
+{
+  "remote-config": "https://github.com/affandhia/datalyst-config/blob/master/config.json?raw=true",
+  "config": "remote",
+  "news": {
+    "enabled": true,
+    "data": [
+      {
+        "title": "Government fails to stop development disparity, says INDEF",
+        "url": "#",
+        "source": "TheJakartaPost"
+      },
+      {
+        "title": "Fintech Lending Terus Tumbuh, Indef: Bisa Serap 215.433 Tenaga...",
+        "url": "#",
+        "source": "Tempo"
+      },
+      {
+        "title": "Indef: opini media sosial indikator pemerataan pembangunan",
+        "url": "#",
+        "source": "AntaraNews"
+      },
+      {
+        "title": "Fintech Lending Terus Tumbuh, Indef: Bisa Serap 215.433 Tenaga...",
+        "url": "#",
+        "source": "Tempo"
+      },
+      {
+        "title": "Indef: opini media sosial indikator pemerataan pembangunan",
+        "url": "#",
+        "source": "AntaraNews"
+      }
+    ]
+  },
+  "team": {
+    "enabled": true,
+    "data": [
+      {
+        "name": "Omar Abdillah",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Leader"
+      },
+      {
+        "name": "Galuh Tunggadewi",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "AI Technology Expert"
+      },
+      {
+        "name": "Imam M. A. Rachbini",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "AI Technology Expert"
+      },
+      {
+        "name": "Alif Fauzan",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Business Development"
+      },
+      {
+        "name": "Adrian Chriswanto",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "System & Operation"
+      },
+      {
+        "name": "Aldi Fahrezi",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "System & Operation"
+      },
+      {
+        "name": "Ida Ayu Kadek Trisnanty",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Financial & General Affair"
+      },
+      {
+        "name": "Fitri Nurinsani R.",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Datalyst Lab"
+      },
+      {
+        "name": "Remmy",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Datalyst Lab"
+      },
+      {
+        "name": "Affan",
+        "image_url": "/assets/img/person_pic.png",
+        "title": "Datalyst Lab"
+      }
+    ]
+  }
+}
